@@ -1,0 +1,5 @@
+org\example\tests\AllTestsSuite.class
+org\example\tests\EmailConfirmationMatchTest.class
+org\example\tests\EmailFormatValidation.class
+org\example\tests\RequiredFieldsValidation.class
+org\example\tests\ValidFormSubmission.class
